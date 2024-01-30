@@ -203,8 +203,6 @@ pyvenv.cfg
 pip-selfcheck.json
 .env
 *.env
-*.txt
-*.md
 
 ### VisualStudioCode ###
 .vscode/*
